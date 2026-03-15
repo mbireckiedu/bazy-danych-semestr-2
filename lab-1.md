@@ -138,8 +138,8 @@ Tabela łączy zamówienia z lekami i opisuje konkretne pozycje zamówienia:
 
 ## 1. Instalacja Dockera
 
-Zainstaluj Docker na swoim komputerze.
-
+Zainstaluj Docker na swoim komputerze.  
+[https://docs.docker.com/desktop/](https://docs.docker.com/desktop/)  
 Rekomendacje:
 - **Windows**: Docker Desktop
 - **macOS**: Docker Desktop
@@ -247,7 +247,8 @@ docker compose -f mysql-docker-compose.yml -p dsw-sql down
 
 ## 4. MySQL Workbench
 
-Do połączenia z bazą możesz użyć **MySQL Workbench**.
+Do połączenia z bazą możesz użyć **MySQL Workbench**.  
+[https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)  
 
 Po zainstalowaniu:
 1. Uruchom program.
